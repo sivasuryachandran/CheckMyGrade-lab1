@@ -140,15 +140,6 @@ Outputs include:
 * CRUD test results
 * Sorting & search timings for 1000 generated students
 
----
-
-## 🔐 Encryption Example
-
-| Plain Password | Encrypted (Base64) |
-| -------------- | ------------------ |
-| `Welcome12#_`  | `GhYCEQ0vFgAOBwwK` |
-
-*(Example only; encryption uses XOR + Base64 for educational use, not production.)*
 
 ---
 
