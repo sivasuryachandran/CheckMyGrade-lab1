@@ -1,0 +1,4 @@
+course_id,course_name,description,credits
+DATA200,Data Science,Provides insight about DS and Python,3
+CS101,Intro CS,Programming fundamentals,4
+STAT150,Statistics I,Descriptive & inferential stats,3

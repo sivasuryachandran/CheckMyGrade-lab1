@@ -1,0 +1,4 @@
+professor_id,name,rank,course_id
+jhulan@mycsu.edu,Jhulan Goswami,Senior Professor,DATA200
+kapil@mycsu.edu,Kapil Dev,Professor,CS101
+kumble@mycsu.edu,Anil Kumble,Associate Prof.,STAT150
